@@ -31,7 +31,6 @@ pnpm dev
 
 ```bash
 pnpm lint
-pnpm check:type
 pnpm build
 ```
 
